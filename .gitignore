@@ -1,0 +1,4 @@
+node-modules/
+test-file.docx
+
+!.gitignore 
